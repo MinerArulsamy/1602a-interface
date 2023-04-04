@@ -1,7 +1,7 @@
 # 1602a-interface
 Requirements:
-"1) LCD 16X2 module with or without I2C adapter
-2)10K potentiometer (if without I2C adapter)
+1) LCD 16X2 module with or without I2C adapter
+git commit -m 2)10K potentiometer (if without I2C adapter)
 3)ESP 32 WiFi and Bluetooth Board	1
 4)Few Connecting Wires
 5)5V power supply (Micro USB or External)."
